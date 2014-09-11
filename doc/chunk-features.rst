@@ -1,0 +1,6 @@
+.. fragment: functional description of the component
+   expected by ./overview.rst
+
+.. .....................................................................
+   Contents: bullet list of functional specs ("cadre fonctionnel")
+   .....................................................................

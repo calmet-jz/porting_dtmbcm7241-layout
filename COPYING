@@ -1,0 +1,6 @@
+GPL-2, from busybox :
+device_table.txt
+udev-persistent.txt
+
+LGPL-2, from glibc :
+all the 'locale' directory
